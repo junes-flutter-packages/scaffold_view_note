@@ -1,7 +1,7 @@
 name: scaffold_view_note
 description: "view note"
-version: 0.0.1
-homepage:
+version: 1.0.0
+homepage: https://github.com/junes-flutter-packages/scaffold_view_note
 
 environment:
   sdk: '>=3.2.4 <4.0.0'
